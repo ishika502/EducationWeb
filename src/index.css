@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@1,200&display=swap");
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "mulish", sans-serif;
+}
+
+.navbar-brand{
+    font-size: 1.7rem !important;
+    color: rgb(177, 121, 230) !important;
+}
+
+.menu_active{
+    font-weight: bold;
+    border-bottom: 1px solid rgb(177, 121, 230) ;
+}
+
+.navbar a:hover{
+    color: rgb(177, 121, 230) !important ;
+}
+
+@media(max-width: 991px){
+    .navbar-brand{
+        font-size: 1.5rem !important;
+    }
+
+.menu_active{
+    font-weight: bold;
+    border-bottom: none;
+    }
+}
+
+.brand-name{
+    color: rgb(177, 121, 230);
+    font-weight: bold;
+}
+
+.header-img{
+    text-align: right;
+}
+
+.btn-get-started{
+    text-decoration: none;
+    border: 1px solid rgb(177, 121, 230);
+    color: rgb(177, 121, 230);
+    border-radius: 15px;
+    padding: 8px 8px;
+    font-size: larger;
+    transition: 0.5s;
+    letter-spacing: 1px;
+}
+
+.btn-get-started:hover{
+    background-color: rgb(177, 121, 230);
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+}
+
+.img-fluid{
+    padding-left: 100px;
+    margin-left: 100px;
+}
+
+#header .animated{
+    animation: up-down 2s ease-in-out infinite alternate-reverse both ;
+}
+
+@-webkit-keyframes up-down{
+    0% {
+        transform: translateY(10px);      
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+}
+
+@keyframes up-down{
+    0% {
+        transform: translateY(10px);      
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+}
+
+.card img{
+    height: 200px;
+    width: 347px;
+}
+
+.ser{
+    font-weight: bold;
+    color: rgb(177, 121, 230);
+}
+
+.button{
+    margin: 20px 0 20px 0;
+    text-decoration: none;
+    border: 1px solid rgb(177, 121, 230);
+    background-color: white;
+    color: rgb(177, 121, 230);
+    border-radius: 15px;
+    padding: 8px 8px;
+    font-size: larger;
+    transition: 0.5s;
+    letter-spacing: 1px;
+}
+
+.button:hover{
+    background-color: rgb(177, 121, 230);
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+}
