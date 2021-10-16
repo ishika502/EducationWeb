@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/EducationWeb/static/css/main.ef599880.chunk.css",
+    "main.js": "/EducationWeb/static/js/main.35ada5cd.chunk.js",
+    "main.js.map": "/EducationWeb/static/js/main.35ada5cd.chunk.js.map",
+    "runtime-main.js": "/EducationWeb/static/js/runtime-main.9695f54c.js",
+    "runtime-main.js.map": "/EducationWeb/static/js/runtime-main.9695f54c.js.map",
+    "static/css/2.48c23c47.chunk.css": "/EducationWeb/static/css/2.48c23c47.chunk.css",
+    "static/js/2.7a0bdc83.chunk.js": "/EducationWeb/static/js/2.7a0bdc83.chunk.js",
+    "static/js/2.7a0bdc83.chunk.js.map": "/EducationWeb/static/js/2.7a0bdc83.chunk.js.map",
+    "index.html": "/EducationWeb/index.html",
+    "precache-manifest.7e4526a2a7cf2522f4e7c99c69a1e374.js": "/EducationWeb/precache-manifest.7e4526a2a7cf2522f4e7c99c69a1e374.js",
+    "service-worker.js": "/EducationWeb/service-worker.js",
+    "static/css/2.48c23c47.chunk.css.map": "/EducationWeb/static/css/2.48c23c47.chunk.css.map",
+    "static/css/main.ef599880.chunk.css.map": "/EducationWeb/static/css/main.ef599880.chunk.css.map",
+    "static/js/2.7a0bdc83.chunk.js.LICENSE.txt": "/EducationWeb/static/js/2.7a0bdc83.chunk.js.LICENSE.txt",
+    "static/media/app.jpg": "/EducationWeb/static/media/app.f1116f6a.jpg",
+    "static/media/digital.jpg": "/EducationWeb/static/media/digital.0b43915d.jpg",
+    "static/media/download.jpg": "/EducationWeb/static/media/download.38ecd93f.jpg",
+    "static/media/market.jpg": "/EducationWeb/static/media/market.d0b6892a.jpg",
+    "static/media/software.jpg": "/EducationWeb/static/media/software.76d352eb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9695f54c.js",
+    "static/css/2.48c23c47.chunk.css",
+    "static/js/2.7a0bdc83.chunk.js",
+    "static/css/main.ef599880.chunk.css",
+    "static/js/main.35ada5cd.chunk.js"
+  ]
+}
